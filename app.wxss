@@ -1,0 +1,13 @@
+@import "/static/iconfont/iconfont.wxss";
+
+page {
+  height: 100%;
+}
+.vipIcon {
+  font-size: 18rpx;
+  border: 1rpx solid rgb(230, 126, 126);
+  border-radius: 8rpx;
+  color: red;
+  padding: 0 5rpx;
+  margin-right: 5rpx;
+}

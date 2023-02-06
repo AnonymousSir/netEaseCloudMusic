@@ -1,0 +1,81 @@
+{
+  "setting": {},
+  "condition": {
+    "plugin": {
+      "list": []
+    },
+    "game": {
+      "list": []
+    },
+    "gamePlugin": {
+      "list": []
+    },
+    "miniprogram": {
+      "list": [
+        {
+          "name": "login",
+          "pathName": "pages/login/login",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "search",
+          "pathName": "pages/search/search",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "news",
+          "pathName": "pages/news/news",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "songDetail",
+          "pathName": "pages/songDetail/songDetail",
+          "query": "id=385965",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "sheetDetail",
+          "pathName": "pages/sheetDetail/sheetDetail",
+          "query": "id=undefined",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "demo",
+          "pathName": "pages/demo/demo",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "songDetail",
+          "pathName": "pages/songDetail/songDetail",
+          "query": "id=1814930102",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "songComment",
+          "pathName": "pages/songComment/songComment",
+          "query": "id=1486484277",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "d2",
+          "pathName": "pages/d2/d2",
+          "query": "",
+          "scene": null,
+          "launchMode": "default"
+        }
+      ]
+    }
+  }
+}
